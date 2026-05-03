@@ -18,11 +18,13 @@
 * **Metrics & Analytics:** Модуль оцінки якості моделі, який будує графіки залежності `Accuracy` та `F1-Score` від рівня зашумленості даних.
 
 ### 📸 Демонстрація роботи
-<img width="613" height="566" alt="image" src="https://github.com/user-attachments/assets/ea70585d-5fbe-410a-bfd6-d9fe525ca59e" />
-
-<img width="691" height="491" alt="image" src="https://github.com/user-attachments/assets/afe2b6e7-0818-4434-a55a-ed698b39c580" />
-
-<img width="974" height="896" alt="image" src="https://github.com/user-attachments/assets/18c2e2a8-3c77-49e1-801d-749e94b3fcb0" />
+<p align="center">
+  <img width="800" alt="Hamming Draw" src="https://github.com/user-attachments/assets/ea70585d-5fbe-410a-bfd6-d9fe525ca59e" />
+  <br><br>
+  <img width="800" alt="Hamming Noise" src="https://github.com/user-attachments/assets/afe2b6e7-0818-4434-a55a-ed698b39c580" />
+  <br><br>
+  <img width="800" alt="Hamming Analytics" src="https://github.com/user-attachments/assets/18c2e2a8-3c77-49e1-801d-749e94b3fcb0" />
+</p>
 
 ---
 
@@ -38,11 +40,13 @@
 * **Статистика:** Побудова графіків збіжності алгоритму та гістограм ефективності методів.
 
 ### 📸 Демонстрація роботи
-<img width="824" height="532" alt="image" src="https://github.com/user-attachments/assets/388f905a-83f8-441a-baa7-4afe7da6d2da" />
-
-<img width="1018" height="661" alt="image" src="https://github.com/user-attachments/assets/ab5e150b-733d-4722-a3c6-ce0c79e4681d" />
-
-<img width="875" height="569" alt="image" src="https://github.com/user-attachments/assets/f72627ee-e03a-4020-b69b-a8efc30dcc8f" />
+<p align="center">
+  <img width="800" alt="TSP Optimization" src="https://github.com/user-attachments/assets/388f905a-83f8-441a-baa7-4afe7da6d2da" />
+  <br><br>
+  <img width="800" alt="TSP Map" src="https://github.com/user-attachments/assets/ab5e150b-733d-4722-a3c6-ce0c79e4681d" />
+  <br><br>
+  <img width="800" alt="TSP Analytics" src="https://github.com/user-attachments/assets/f72627ee-e03a-4020-b69b-a8efc30dcc8f" />
+</p>
 
 ---
 
@@ -58,5 +62,5 @@
 
 1. Клонуйте репозиторій:
    ```bash
-   git clone [https://github.com/ВАШ_НІКНЕЙМ/ml-algorithms-from-scratch.git](https://github.com/ВАШ_НІКНЕЙМ/ml-algorithms-from-scratch.git)
+   git clone [https://github.com/markmykola/ml-algorithms-from-scratch.git](https://github.com/markmykola/ml-algorithms-from-scratch.git)
    cd ml-algorithms-from-scratch
