@@ -58,9 +58,3 @@
 
 ---
 
-## ⚙️ Як запустити локально
-
-1. Клонуйте репозиторій:
-   ```bash
-   git clone [https://github.com/markmykola/ml-algorithms-from-scratch.git](https://github.com/markmykola/ml-algorithms-from-scratch.git)
-   cd ml-algorithms-from-scratch
